@@ -16,7 +16,11 @@
     "index.js"
   ],
   "keywords": [
-    ""
+    "adventure", 
+    "edutainment", 
+    "education", 
+    "workshop", 
+    "nodeschool"
   ],
   "dependencies": {
     "adventure": "^2.10.0"

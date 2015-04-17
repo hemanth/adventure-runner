@@ -1,6 +1,6 @@
 {
   "name": "adventure-runner",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Runner util for nodeschool adventures",
   "license": "MIT",
   "repository": "hemanth/adventure-runner",
@@ -16,10 +16,10 @@
     "index.js"
   ],
   "keywords": [
-    "adventure", 
-    "edutainment", 
-    "education", 
-    "workshop", 
+    "adventure",
+    "edutainment",
+    "education",
+    "workshop",
     "nodeschool"
   ],
   "dependencies": {

@@ -23,6 +23,7 @@
     "nodeschool"
   ],
   "dependencies": {
-    "adventure": "^2.10.0"
+    "adventure": "^2.10.0",
+    "caller": "^1.0.0"
   }
 }

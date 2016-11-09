@@ -24,6 +24,6 @@
   ],
   "dependencies": {
     "adventure": "^2.11.0",
-    "caller": "^1.0.0"
+    "caller": "^1.0.1"
   }
 }

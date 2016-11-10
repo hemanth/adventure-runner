@@ -1,6 +1,6 @@
 {
   "name": "adventure-runner",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Runner util for nodeschool adventures",
   "license": "MIT",
   "repository": "hemanth/adventure-runner",
